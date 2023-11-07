@@ -7,7 +7,7 @@ public class Assignment1_Variable {
         /* Initiate and declare Primitive data type  */
         int streetNumber = 111;         //Integer data type
         double distanceInMiles = 4.6;   //decimal data type
-        Boolean hasApartment=true;      // Boolean - true, false
+        boolean hasApartment=true;      // Boolean - true, false
         char aptNumber = 'C';           //single character
 
         /* Initiate and declare non-primitive data type */
