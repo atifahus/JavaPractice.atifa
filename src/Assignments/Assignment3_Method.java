@@ -1,4 +1,4 @@
-package HomeWork;
+package Assignments;
 
 public class Assignment3_Method {
     /* This is an assignment to declare methods */
