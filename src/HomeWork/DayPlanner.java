@@ -3,6 +3,7 @@ package HomeWork;
 import java.util.Scanner;
 
 public class DayPlanner {
+    /*Declare day plan using switch case */
     public static void main(String[] args) {
         System.out.println("Enter a day: ");
         Scanner d= new Scanner(System.in);

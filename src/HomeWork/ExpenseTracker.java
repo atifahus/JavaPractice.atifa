@@ -4,6 +4,7 @@ public class ExpenseTracker {
 
 
     public static void main(String[] args) {
+        /* if else example to find the highest price */
         double rent= 2000.34;
         double groceries=500.34;
         double entertainment=70.44;
