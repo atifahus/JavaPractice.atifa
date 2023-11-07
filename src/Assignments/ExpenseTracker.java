@@ -1,4 +1,4 @@
-package HomeWork;
+package Assignments;
 
 public class ExpenseTracker {
 

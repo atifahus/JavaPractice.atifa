@@ -1,6 +1,4 @@
-package HomeWork;
-
-import sun.lwawt.macosx.CSystemTray;
+package Assignments;
 
 import java.util.Scanner;
 

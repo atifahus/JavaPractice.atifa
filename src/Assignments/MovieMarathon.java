@@ -1,4 +1,4 @@
-package HomeWork;
+package Assignments;
 
 public class MovieMarathon {
     public static void main(String[] args) {
