@@ -1,6 +1,7 @@
 package HomeWork;
 
 public class Assignment3_Method {
+    /* This is an assignment to declare methods */
 //1.Book
     String title, author, genre;
     int ISBN, pageCount;
