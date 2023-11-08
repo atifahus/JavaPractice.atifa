@@ -1,3 +1,5 @@
+package InClassPractice;
+
 import java.util.Scanner;
 public class DressSelection {
     public static void main(String[] args) {

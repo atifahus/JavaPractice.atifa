@@ -1,3 +1,5 @@
+package InClassPractice;
+
 import java.util.Scanner;
 
 public class HealthAssessment {
