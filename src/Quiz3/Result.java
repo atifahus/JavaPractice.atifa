@@ -10,6 +10,7 @@ public class Result {
     public static int[] marks = {90, 80, 70, 60, 50};
     static int totalMarks = 0;
 
+
     public static void marksEachSubject(){
         //Print individual marks of each subject using for loop
         System.out.println("Below is the marks for each subject using for loop:");
@@ -78,7 +79,7 @@ public class Result {
         //find average marks using for loop
         int averageMarks = 0;
         for (int a = 0; a < marks.length; a++) {
-            averageMarks = totalMarks / subject[4];
+            averageMarks = totalMarks / marks.length;
         }
         System.out.println("Average marks using for loop: " + averageMarks);
     }
@@ -89,7 +90,7 @@ public class Result {
         int b = 0;
         int whileAverageMarks=0;
         while (b<marks.length){
-            whileAverageMarks=totalMarks/subject[4];
+            whileAverageMarks=totalMarks/marks.length;
             b++;
         }
         System.out.println("Average marks using while loop: "+ whileAverageMarks);
